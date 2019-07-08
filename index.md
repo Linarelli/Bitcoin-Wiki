@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## O que é [Bitcoin](https://bitcoin.org/pt_BR/)?
 
-You can use the [editor on GitHub](https://github.com/Linarelli/Bitcoin-Wiki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bitcoin é uma rede de pagamentos que permite você trasmitir valores de pessoas a pessoas **sem intermediários**.
 
 ### Markdown
 
