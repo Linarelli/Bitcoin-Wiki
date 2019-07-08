@@ -12,8 +12,9 @@ A rede do Bitcoin funciona de forma Aberta, Neutra, Descentralizada & Sem fronte
 
 Tudo isso é possível graças a criptografia e complexas equações matemáticas que se organizam em blocos de informações (blockchain). Se você não entendeu, ignore e continue lendo. Para os curiosos que queiram mais detalhes técnicos recomendo a leitura do [manual original do Bitcoin](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf).
 
-Hoje existem muitas outras criptomoedas, sendo o Bitcoin apenas a "ponta do Iceberg". 
-Existe um mercado de criptomoedas, mas o Bitcoin é a principal criptomoeda. Existe há 10 anos funcionando 24 horas, 7 dias por semana, sem interrupções. Isso tem seu valor, pois são 10 anos de validação, onde hackers do mundo todo tentam fraudar a rede (sem sucesso). Todo o mercado de criptomoeda gira em torno no Bitcoin nesse guia vamos falar apenas sobre ele.
+Hoje existem muitas outras criptomoedas, sendo o Bitcoin apenas a "ponta do Iceberg", existe um mercado de criptomoedas, mas o Bitcoin é a principal criptomoeda. 
+
+A rede existe há 10 anos funcionando 24 horas, 7 dias por semana, sem interrupções. Isso tem seu valor, pois são 10 anos de validação, onde hackers do mundo todo tentam fraudar a rede (sem sucesso). Todo o mercado de criptomoeda gira em torno no Bitcoin nesse guia vamos falar apenas sobre ele.
 
 # Quem criou e como surgiu?
 
