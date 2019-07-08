@@ -1,6 +1,13 @@
-Neste Perguntas & Respostas quero explicar de forma simples e clara as principais dúvidas sobre o Bitcoin, para que qualquer pessoa consiga entender o valor e inovação que o Bitcoin representa.
+Esse guia foi feito para Mães, Pais, Avós e qualquer um que não seja da área de tecnologia consiga entender o Bitcoin, portanto vou tentar não utilizar termos técnicos e simplicaficar o máximo possível. O objetivo é responder as principais dúvidas sobre o Bitcoin.
 
-O objetivo é que Mães, Pais, Avós e Crianças consigam compreender esse manual, portanto vou tentar não utilizar termos técnicos e simplicaficar o máximo possível.
+Eu ouvi sobre o Bitcoin em 2012, mas para ser sincero eu ignorei. Pensei que era uma moedinha virtual de nerd, não dei mínima importância. Como sou formado em tecnologia e muito curioso, em 2014 estava cansado de ouvir falar sobre o Bitcoin e não entender sobre o que era e resolvi tentar entender.
+
+É como se houvesse uma neblina que me impedia de enxegar o horizonte, e derrepende se dissipou e deu lugar a um lindo horizonte. Fiquei vislumbrado e comecei a enxergar com clareza o valor e inovação que o Bitcoin trás consigo.
+
+Fazendo uma comparação de potencial de inovação, quando a Internet surgiu transformou a forma com que nos comunicamos (e-mail, mensagens de texto, redes sociais) e o mais importante, revolucionou a forma com que conteúdo é criado e distribuído, qualquer um pode publicar e divulgar conteúdo na Internet. 
+A internet surgiu como uma alternativa aos jornais e emissoras de televisão, que eram monopólios regidos por interesses políticos e financeiros, e após alguns anos a alternativa passou a ser a principal fonte de informações e conteúdos independentes. Nos primórdios da internet não existia o Google, não era fácil enviar um e-mail, ou entender que para acessar um site você tinha que digitar http://www , foram anos de desenvolvimento de soluções e de educação para que a adoção se tornasse popular.
+
+Eu comparo o potencial de inovação e impacto social do Bitcoin similar com o que a Internet nos trouxe. O Bitcoin hoje é uma alternativa as moedas estatais (dólar, euro, real) o qual é um monopólio, afinal apenas o Estado pode emitir dinheiro (atravéz dos seus Bancos Centrais) e somos obrigados a utiliza-los em nossas respectivas nações.
 
 # O que é Bitcoin?
 
