@@ -15,7 +15,7 @@ Tudo isso é possível graças a criptografia e complexas equações matemática
 Hoje existem muitas outras criptomoedas, sendo o Bitcoin apenas a "ponta do Iceberg". 
 Existe um mercado de criptomoedas, mas o Bitcoin é a principal criptomoeda. Existe há 10 anos funcionando 24 horas, 7 dias por semana, sem interrupções. Isso tem seu valor, pois são 10 anos de validação, onde hackers do mundo todo tentam fraudar a rede (sem sucesso). Todo o mercado de criptomoeda gira em torno no Bitcoin nesse guia vamos falar apenas sobre ele.
 
-# Quem criou o Bitcoin e como surgiu?
+# Quem criou e como surgiu?
 
 Em 2008 surgiu o o Bitcoin e seu criador é anônimo. O criador utilizou o apelido de "Satoshi Nakamoto" e pode ser uma pessoa ou um grupo de programadores.
 
