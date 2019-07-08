@@ -1,10 +1,8 @@
-```markdown
-A idéias deste Pergunta & Respostas é conseguir explicar de forma simples e clara as principais dúvidas sobre o Bitcoin. 
+# A idéia deste Pergunta & Respostas é conseguir explicar de forma simples e clara as principais dúvidas sobre o Bitcoin. 
 
-Para que qualquer pessoa consiga compreender os fundamentos do Bitcoin. (bastar querer e ler)
+# Para que qualquer pessoa consiga compreender os fundamentos do Bitcoin.
 
-Um manual para Mães, Pais, Avós, Crianças, cachorros, etc..
-```
+# Um manual para Mães, Pais, Avós, Crianças, cachorros, etc..
 
 ## O que é [Bitcoin](https://bitcoin.org/pt_BR/)?
 
