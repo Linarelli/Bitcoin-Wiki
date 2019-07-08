@@ -12,7 +12,7 @@ Com a adoção em massa da internet saimos de um modelo centralizado pra um mode
 
 Qualquer um pode publicar e divulgar o seu conteúdo na internet, você pode trabalhar em colaboração, pessoas podem opnar e contribuir em tempo real com o conteúdo que estão assistindo, você pode elogiar ou insultar alguém de forma anônima se quiser.
 
-Mas lembra como era antes do BOOM?
+Mas lembra como era na fase embrionária da internet? As tarefas que hoje são simples, não eram nada fáceis. Não existia o Google, não era fácil achar um site, enviar um e-mail, não etc. Foram anos de desenvolvimento de soluções e de educação para que a adoção se tornasse popular, antes disso só nerds e entendedores de tecnologia conseguiam utilizar.
 
 O Bitcoin é por definição uma rede de pagamentos que permite você trasmitir valores de forma neutra e descentralizada. Na prática, todos que participam da rede são tratados de forma neutra, ou seja, não importa seu saldo bancário, as taxas e condições da rede se aplicam a todos, não importa quem está transferindo nem para quem está indo seu dinheiro, nem mesmo o valor que está sendo transferido. O sistema de pagamento simplesmente funciona.
 
