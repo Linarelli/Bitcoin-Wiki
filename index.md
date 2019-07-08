@@ -1,16 +1,16 @@
-# A idéia deste Pergunta & Respostas é conseguir explicar de forma simples e clara as principais dúvidas sobre o Bitcoin. 
+## A idéia deste Pergunta & Respostas é conseguir explicar de forma simples e clara as principais dúvidas sobre o Bitcoin. 
 
-# Para que qualquer pessoa consiga compreender os fundamentos do Bitcoin.
+## Para que qualquer pessoa consiga entender como funciona, os fundamentos, e os mitos do Bitcoin.
 
-# Um manual para Mães, Pais, Avós, Crianças, cachorros, etc..
+## Um manual para Mães, Pais, Avós, Crianças..
 
-## O que é [Bitcoin](https://bitcoin.org/pt_BR/)?
+# O que é Bitcoin?
 
-Bitcoin é uma rede de pagamentos que permite você trasmitir valores **sem intermediários**.
+[Bitcoin](https://bitcoin.org/pt_BR/) é uma rede de pagamentos que permite você trasmitir valores **sem intermediários**.
 
-A rede do Bitcoin funciona de forma Aberta, Neutra, Descentralizada & Sem fronteiras. (vamos falar sobre a importância de cada característica)
+O conceito é simples porém a solução é inovadora, pois elimina intermediários financeiros como bancos e sistemas de pagamentos mesmo sem as partes se conhecerem e confiarem entre si.
 
-O conceito é simples porém a solução é inovadora, pois elimina intermediários financeiros como bancos e sistemas de pagamentos convencionais. Atque garantem a segurança você não precisa conhecer e confiar na pessoa que está fazendo ou recebendo uma transação,
+A rede do Bitcoin funciona de forma Aberta, Neutra, Descentralizada & Sem fronteiras. (vamos falar sobre a importância de uma cada característica nos fundamentos).
 
 ### Markdown
 
