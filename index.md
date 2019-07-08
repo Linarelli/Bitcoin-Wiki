@@ -1,20 +1,29 @@
-## A idéia deste Pergunta & Respostas é conseguir explicar de forma simples e clara as principais dúvidas sobre o Bitcoin. 
+Neste Perguntas & Respostas quero explicar de forma simples e clara as principais dúvidas sobre o Bitcoin, para que qualquer pessoa consiga entender o valor e inovação que o Bitcoin representa.
 
-## Para que qualquer pessoa consiga entender como funciona, os fundamentos, e os mitos do Bitcoin.
-
-## Um manual para Mães, Pais, Avós, Crianças..
+O objetivo é que Mães, Pais, Avós e Crianças consigam compreender esse manual, portanto vou tentar não utilizar termos técnicos e simplicaficar o máximo possível.
 
 # O que é Bitcoin?
 
 [Bitcoin](https://bitcoin.org/pt_BR/) é uma rede de pagamentos que permite você trasmitir valores **sem intermediários**.
 
-O conceito é simples porém a solução é inovadora, pois elimina intermediários financeiros como bancos e sistemas de pagamentos mesmo sem as partes se conhecerem e confiarem entre si.
+Isso é inovador pois elimina intermediários financeiros como bancos e sistemas de pagamentos mesmo sem que as partes se conheçam e confiem entre si.
 
-A rede do Bitcoin funciona de forma Aberta, Neutra, Descentralizada & Sem fronteiras. (vamos falar sobre a importância de uma cada característica nos fundamentos).
+A rede do Bitcoin funciona de forma Aberta, Neutra, Descentralizada & Sem fronteiras. (essas são características muito importantes e vou explicar uma por uma nos fundamentos).
 
-### Markdown
+Tudo isso é possível graças a criptografia e complexas equações matemáticas que se organizam em blocos de informações (blockchain). Se você não entendeu, ignore e continue lendo. Para os curiosos que queiram mais detalhes técnicos recomendo a leitura do [manual original do Bitcoin](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hoje existem muitas outras criptomoedas, sendo o Bitcoin apenas a "ponta do Iceberg". 
+Existe um mercado de criptomoedas, mas o Bitcoin é a principal criptomoeda. Existe há 10 anos funcionando 24 horas, 7 dias por semana, sem interrupções. Isso tem seu valor, pois são 10 anos de validação, onde hackers do mundo todo tentam fraudar a rede (sem sucesso). Todo o mercado de criptomoeda gira em torno no Bitcoin nesse guia vamos falar apenas sobre ele.
+
+# Quem criou o Bitcoin e como surgiu?
+
+Em 2008 surgiu o o Bitcoin e seu criador é anônimo. O criador utilizou o apelido de "Satoshi Nakamoto" e pode ser uma pessoa ou um grupo de programadores.
+
+Tudo indica que ele optou pelo anonimato pois sabia que com o aumento da popularidade, a rede Bitcoin sofreria regulamentações e forte pressão dos Bancos Centrais e instituições financeiras, censuras estatais.
+
+Antes do Bitcoin muitos outros projetos tentaram criar uma moeda descentralizada, um dinheiro "livre" da política e do Estado, esses projetos não tiveram sucesso, mas deixaram um legado que permitiu "Satoshi Nakamoto" unir tecnologias construídas em torno da criptografia e acrescentou o que faltava. 
+
+O que faltava era uma solução que permitisse a rede operar de forma descentralizada e independente, sem fraudes e sem que as partes confiem entre si. Isso foi possível com a mineração e os validadores da rede (full nodes)! Mas isso é um assunto para outro tópico.
 
 ```markdown
 Syntax highlighted code block
