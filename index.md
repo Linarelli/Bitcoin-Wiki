@@ -1,6 +1,6 @@
 Esse guia foi feito para Mães, Pais, Avós e qualquer um que não seja da área de tecnologia consiga entender o Bitcoin, portanto vou tentar não utilizar termos técnicos e simplicaficar o máximo possível. O objetivo é responder as principais dúvidas sobre o Bitcoin.
 
-Eu ouvi sobre o Bitcoin em 2012, mas para ser sincero eu ignorei. Pensei que era uma moedinha virtual de nerd, não dei mínima importância. Como sou formado em tecnologia e muito curioso, em 2014 estava cansado de ouvir falar sobre o Bitcoin e não entender sobre o que era e resolvi tentar entender.
+Antes vou contar um pouco sobre como aconteceu comigo: Eu ouvi sobre o Bitcoin em 2012, mas para ser sincero eu ignorei. Pensei que era uma moedinha virtual de nerd, não dei mínima importância. Como sou formado em tecnologia e muito curioso, em 2014 estava cansado de ouvir falar sobre o Bitcoin e não entender sobre o que era e resolvi tentar entender.
 
 É como se houvesse uma neblina que me impedia de enxegar o horizonte, e derrepende se dissipou e deu lugar a um lindo horizonte. Fiquei vislumbrado e comecei a enxergar com clareza o valor e inovação que o Bitcoin trás consigo.
 
