@@ -1,18 +1,30 @@
-Esse guia foi feito para Mães, Pais, Avós e qualquer um que não seja da área de tecnologia consiga entender o Bitcoin, portanto vou tentar não utilizar termos técnicos e simplicaficar o máximo possível. O objetivo é responder as principais dúvidas sobre o Bitcoin.
+A primeira vez que ouvi sobre o Bitcoin foi em 2012, mas para ser sincero não dei importância, pensei que essa nova "moeda virtual de nerd" não era para mim. Passado alguns anos sempre ouvindo falar sobre Bitcoin e ignorando, resolvi tentar entender sobre o assunto, pois sou muito curioso. Minha formação em tecnlogia facilitou o entendimento.
 
-Mas antes vou contar um pouco do porquê estou escrevendo esse guia: 
-Primeira vez que ouvi sobre o Bitcoin foi em 2012, mas para ser sincero eu ignorei. Pensei que era uma moeda virtual de nerd, não dei mínima importância. Passado alguns anos sempre ouvindo falar sobre Bitcoin e ignorando, em 2014 resolvi tentar entender sobre o assunto, pois sou muito curioso e formado em tecnlogia, e cada vez mais estava me deparava com o Bitcoin nos fóruns de tecnologia.
+Quando comecei a me aprofundar no assunto é que eu percebi a importância da "coisa", é como se houvesse uma neblina que me impedia de enxegar o horizonte, e aos poucos, comecei a enxergar com clareza o valor e inovação que o Bitcoin trás consigo, e hoje meu objetivo é disseminar essa informação para o maior número de pessoas possível, sem ruídos, sem nenhum interesse financeiro.
 
-Quando comecei a estudar, é como se houvesse uma neblina que me impedia de enxegar o horizonte, e aos poucos, essa neblina começou a se dissipar e deu lugar a um horizonte lípido. Comecei a enxergar com clareza o valor e inovação que o Bitcoin trás consigo, e hoje meu objetivo é disseminar essa informação para o maior número de pessoas possível, sem ruídos, sem nenhum interesse financeiro.
+Eu acredito que o Bitcoin será tão revolucionário e impactante como a internet foi.
 
-Para vocês terem uma idéia, acredito no potencial de inovação e disrupção tecnológica do Bitcoin assim como a Internet foi para nós.
-A Internet surgiu como uma alternativa aos jornais e emissoras de televisão, que eram monopólios regidos por interesses políticos e financeiros, e em pouco tempo transformou a forma com que nos comunicamos (e-mail, mensagens de texto, redes sociais) e o mais importante, revolucionou a forma com que conteúdo é criado e distribuído: qualquer um pode publicar e divulgar conteúdo na Internet, e uma vez divulgado, não tem mais volta, a informação está na rede da Internet!
-Ela deixou de ser uma alternativa e passou a ser a principal fonte de conteúdos e mídia, sacodiu toda a indústria. 
-Mas vamo lembrar como tudo isso aconteceu? Nos primórdios da internet as tarefas que hoje são simples, não eram nada fáceis, não existia o Google, não era fácil achar um site, acessar um site (quem inventou isso de http://www ???), enviar um e-mail, etc. Foram anos de desenvolvimento de soluções e de educação para que a adoção se tornasse popular, antes disso só nerds e entendedores de tecnologia conseguiam utilizar.
+A internet surgiu como uma ***alternativa*** as comunicações tradicionais que tínhamos, como os jornais e emissoras de tv, rádio e revistas. E em pouco tempo revolucionou toda a indústria de jornalismo, propaganda, entreterimento, educação, etc.
 
-Eu comparo o potencial de inovação e impacto social do Bitcoin similar com o que a Internet nos trouxe. 
-As moedas estatais também são um monopólios, pois apenas o Estado pode criar dinheiro. Porém infelizmente crises econômicas que geram hiperinflação aconteceram e continuam acontecendo, onde seu dinheiro começa a perder valor da noite para o dia, e muitas vezes você não pode fazer nada, pois inicia-se uma corrida aos bancos os quais em época de crise, fecham as portas. Muitos países como Argentina, Zimbábue, Índia, Iugoslávia, Grécia, Alemanha, Hungria, Índia, Brasil (1994), etc, passam ou passaram por isso.
-Aí que entra o Bitcoin, como uma alternativa de reserva de valor, ao ouro, dólar, euro, real, etc. Porém vale lembrar ainda estamos saindo da época primitiva, onde apenas os nerds e entendedores de tecnologia conseguem utilizar e partindo para a adoção em massa, onde soluções estão sendo criadas diariamente para tornar o uso da tecnologia o mais simples possível.
+Essa revolução aconteceu pois existia um problema com os meios de comunicações tradicionais: eram um monopólio regido por interesses políticos utilizado para manipular massas.
+
+Com a adoção em massa da internet saimos de um modelo centralizado pra um modelo **descentralizado e colaborativo**?
+
+Qualquer um pode publicar e divulgar o seu conteúdo na internet, você pode trabalhar em colaboração, pessoas podem opnar e contribuir em tempo real com o conteúdo que estão assistindo, você pode elogiar ou insultar alguém de forma anônima se quiser.
+
+Mas lembra como era antes do BOOM?
+
+O Bitcoin é por definição uma rede de pagamentos que permite você trasmitir valores de forma neutra e descentralizada. Na prática, todos que participam da rede são tratados de forma neutra, ou seja, não importa seu saldo bancário, as taxas e condições da rede se aplicam a todos, não importa quem está transferindo nem para quem está indo seu dinheiro, nem mesmo o valor que está sendo transferido. O sistema de pagamento simplesmente funciona.
+
+As moedas estatais, assim como eram os veículos de comunicação, também são monopólios. Apenas o Estado pode criar dinheiro, se você tentar inventar uma moeda nova ou criar dinheiro, é crime. 
+
+O sistema monetário atual lhe pertence, mas infelizmente não está funcionando muito bem, as crises econômicas que geram hiperinflação aconteceram e continuam acontecendo. Aquele cenário onde o dinheiro começa a perder valor da noite para o dia, e muitas vezes você não pode fazer nada, pois inicia-se uma corrida aos bancos os quais em época de crise, fecham as portas. E as grandes massas não conseguem sacar. Aconteceu na Argentina, Zimbábue, Índia, Iugoslávia, Grécia, Alemanha, Hungria, Índia, Brasil (1994), etc, passam ou passaram por isso.
+
+O Bitcoin surge como uma ***alternativa*** de reserva de valor, ao ouro, dólar, euro, real, etc.
+
+Estamos saindo da fase embrionária do Bitcoin, onde apenas os nerds e entendedores de tecnologia conseguem utilizar e partindo para a adoção em massa, onde soluções estão sendo criadas diariamente para tornar o uso da tecnologia o mais simples possível.
+
+E nessa alternativa você pode mais do que um sistema de transferência de valores, você também pode criar soluções utilizando a plataforma do Bitcoin, você inovar e adaptar de livre e colaborativa, você não vai precisar de um faturamento gordo para conseguir uma taxa especial
 
 Bom, com essa longa introdução agora vamos para as perguntas e respostas:
 
